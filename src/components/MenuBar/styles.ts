@@ -54,7 +54,7 @@ export const MenuButton = styled.button`
   align-items: center;
   flex-shrink: 0;
 
-  width: 100%;
+  /* width: 100%; */
 
   padding: 8.25px 15px;
   outline: 0;
