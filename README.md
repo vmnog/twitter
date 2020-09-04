@@ -3,7 +3,7 @@ UI Clone - Twitter Responsive
 </h1>
 
 <p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
-<h3 align="center">Check live demo<a href="https://vmnog-twitter.netlify.app/">here</a>.</h3>
+<h3 align="center">Check live demo <a href="https://vmnog-twitter.netlify.app/">here</a>.</h3>
 
 <p align="center">
   <a href="https://github.com/vmnog/twitter/graphs/contributors">
